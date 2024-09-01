@@ -1,5 +1,5 @@
 import numpy as np
-import openseespy.opensees as ops
+import opensees.openseespy as ops
 
 from fea.utils import Material, SectionProperties
 from utils.models import Edge, Node
